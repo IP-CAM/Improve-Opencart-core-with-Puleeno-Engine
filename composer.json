@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "intervention/image": "^2.4"
+        "intervention/image": "^2.4",
+        "vlucas/phpdotenv": "^3.1"
     },
     "autoload": {
         "psr-4": {
