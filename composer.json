@@ -1,0 +1,13 @@
+{
+    "name": "puleeno/opencart-engine",
+    "description": "Improve OpenCart core with Puleeno Engine. Fast, secure, optimization and flexible framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {}
+}
