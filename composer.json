@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Puleeno\\": "src/"
+            "Puleeno\\Engine\\": "src/"
         }
     }
 }
